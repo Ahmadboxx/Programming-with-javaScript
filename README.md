@@ -2,8 +2,6 @@
 
 JavaScript is a high level, interpreted, programming language used to make web pages more interactive.
 
-Have you ever thought that your website is missing something? Maybe it’s not engaging enough or it’s not as creative as you want it to be. JavaScript is that missing piece which can be used to enhance web pages, applications, etc to provide a more user-friendly experience.
-
 JavaScript is the language of the web, it is used to make the web look alive by adding motion to it. To be more precise, it’s a programming language that let’s you implement complex and beautiful things/design on web pages. When you notice a web page doing more than just sit there and gawk at you, you can bet that the web page is using JavaScript.
 
 A script is a series of instructions that the computer can follow in order to achieve a goal. 
@@ -31,6 +29,6 @@ Functions let you group a series of statements together to perform a specific ta
 
 Example of a simple function
 
-<!DOCTYPE html> <html> <head> 
+"<!DOCTYPE html> <html> <head> 
 Before the closing </body> tag, you can see the link to the JavaScript file. The JavaScript file starts with a variable used to hold a new message, and is followed by a function called updateMessage(). 
-<ti tle>Basic Function</title> <link rel ="stylesheet" href="css/c03.css" /> </head> <body> <hl>TravelWorthy< /hl> <div id="message">Welcome to our site!< /div> <script src="js/basic-function.js"></script> < / body> </html> 
+<ti tle>Basic Function</title> <link rel ="stylesheet" href="css/c03.css" /> </head> <body> <hl>TravelWorthy< /hl> <div id="message">Welcome to our site!< /div> <script src="js/basic-function.js"></script> < / body> </html>"
