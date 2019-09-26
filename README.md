@@ -1,5 +1,11 @@
 # Programming-with-javaScript
 
+JavaScript is a high level, interpreted, programming language used to make web pages more interactive.
+
+Have you ever thought that your website is missing something? Maybe it’s not engaging enough or it’s not as creative as you want it to be. JavaScript is that missing piece which can be used to enhance web pages, applications, etc to provide a more user-friendly experience.
+
+JavaScript is the language of the web, it is used to make the web look alive by adding motion to it. To be more precise, it’s a programming language that let’s you implement complex and beautiful things/design on web pages. When you notice a web page doing more than just sit there and gawk at you, you can bet that the web page is using JavaScript.
+
 A script is a series of instructions that the computer can follow in order to achieve a goal. 
 Each time the script runs, it might only use a subset of all the instructions. 
 Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
@@ -8,7 +14,9 @@ To approach writing a script, break down your goal into a series of tasks and th
 You could compare scripts to any of the following:
 
 RECIPES 
-HANDBOOKS 
+
+HANDBOOKS
+
 MANUALS
 
 # EXPRESSIONS 
